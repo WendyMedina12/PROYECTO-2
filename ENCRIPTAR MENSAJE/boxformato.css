@@ -1,0 +1,23 @@
+.caja1{
+    border-top: 7px dotted rgb(196, 25, 248);
+    border-right: 5px dotted rgb(196, 25, 248);
+    border-bottom: 5px dotted rgb(196, 25, 248);
+    border-left: 5px dotted rgb(196, 25, 248);
+    background-color: rgb(159, 255, 239);
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+   }
+
+   .caja2{
+    border-top: 7px dotted rgb(196, 25, 248);
+    border-right: 5px dotted rgb(196, 25, 248);
+    border-bottom: 5px dotted rgb(196, 25, 248);
+    border-left: 5px dotted rgb(196, 25, 248);
+    background-color: rgb(159, 255, 239);
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+   }

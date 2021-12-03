@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d6aaff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    min-height: 100vh;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    font-family: 'Helvetica';
+};
+.caja1{
+    border-top: 7px dotted rgb(196, 25, 248);
+    border-right: 5px dotted rgb(196, 25, 248);
+    border-bottom: 5px dotted rgb(196, 25, 248);
+    border-left: 5px dotted rgb(196, 25, 248);
+    background-color: rgb(159, 255, 239);
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+   }
